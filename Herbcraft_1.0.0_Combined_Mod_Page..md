@@ -368,42 +368,6 @@ Herbcraft 1.0.0 已经可以作为完整版本游玩，但仍有一些未来可�
 
 ---
 
-# 十二、截图建议
-
-## Core 截图
-
-1. 玩家手持百草经站在花草、树叶、冰雪和下界菌附近；
-2. 背包 tooltip 显示“见过”，性味与特质为问号；
-3. 百草经界面展示 Heard / Tasted 条目；
-4. 残页与疑载 claim 标记；
-5. 七情配伍 ActionBar；
-6. herb_stack 私人消息；
-7. 山羊吃花或树叶；
-8. 马被草蕨类引诱。
-
-## Alchemy 截图
-
-1. 一排草药精华；
-2. 基础药水、澄清药水、浊化药水对比；
-3. 药水品质 tooltip；
-4. 带余韵 / 杂毒的高级药水；
-5. 武器淬层 tooltip；
-6. 隐藏料理作为催化剂的炼金场景；
-7. 女巫与草药药水相关场景。
-
-## Cuisine 截图
-
-1. 水碗获取或水碗摆拍；
-2. 生坯 → 烹饪 → 成品药膳；
-3. 固定药膳 tooltip；
-4. 百草盅和原料展示；
-5. 百草盅食用后触发多种效果；
-6. 百花宴；
-7. 剧毒蛊；
-8. 药膳清除负面并给予免疫的场景。
-
----
-
 # English Summary
 
 **Herbcraft** is a three-module Fabric mod suite that makes many vanilla natural items edible and turns them into a slow herbal knowledge system involving taste, rumors, pharmacology, animal interactions, cuisine, and alchemy.
